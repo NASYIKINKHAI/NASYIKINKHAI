@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- 💬 My name is Nurul Asyikin Binti Khairul Anuar
+- 🌱 I'm currently pursuing a degree in Computer Science (Data Engineering) at Universiti Teknologi Malaysia.
+
 <!--
 **NASYIKINKHAI/NASYIKINKHAI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
