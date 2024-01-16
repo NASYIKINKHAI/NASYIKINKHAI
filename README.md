@@ -6,7 +6,7 @@ _________
 - I'm currently pursuing a degree in Computer Science (Data Engineering) at Universiti Teknologi Malaysia.
 - Born on April 18th
 - Lives in Petaling Jaya, Selangor
-- 
+
 
 ### Academic Background
 _________
