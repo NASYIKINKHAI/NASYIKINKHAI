@@ -18,6 +18,21 @@ _________
 **2023 - Present**<br>
 🎓 Degree: Universiti Teknologi Malaysia, Johor <br>
 
+### Position 
+_________
+Primary School
+- Librarian (2012 - 2016)
+- Vice President of Librarian (2016)
+- President of Pandu Puteri (2016)
+- President of MBMMBI Club (2016) <br>
+
+Secondary School <br>
+- Pembimbing Rakan Sebaya (2018 - 2020)
+- Vice President School Prefect (2021)
+- Committee of Rumah Biru (2017 - 2019)
+- President of Computer Science Club
+    
+
 
 ### Languages and Tools that I've learned:
 ______________
