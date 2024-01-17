@@ -33,6 +33,7 @@ _________
 - [DISCRETE STRUCTURE](https://github.com/NASYIKINKHAI/SEMESTER-1/tree/main/Discrete%20Structure)
 - [INTEGRITY AND ANTI-CORRUPTION](https://github.com/NASYIKINKHAI/SEMESTER-1/tree/main/Integrity%20and%20Anti-curroption%20Course) <BR>
 - [PROGRAMMING TECHNIQUE I](https://github.com/NASYIKINKHAI/SEMESTER-1/tree/main/Programming%20Technique%20I)<BR>
+- [TECHNOLOGY AND INFORMATION SYSTEM](https://github.com/NASYIKINKHAI/SEMESTER-1/tree/main/Technology%20and%20Information%20System)<BR>
 <!--
 **NASYIKINKHAI/NASYIKINKHAI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
