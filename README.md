@@ -1,4 +1,4 @@
-### Hi, Asyikin here! 👋
+### Hi everyone, Asyikin here! 👋
 _________
 
 **Some of information about me**
