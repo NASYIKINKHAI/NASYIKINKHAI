@@ -1,7 +1,7 @@
 ### Hi everyone, Asyikin here! 👋
 _________
 
-**Some of information about me**
+**Some of the information about me**
 - My full name is Nurul Asyikin Binti Khairul Anuar
 - I'm currently pursuing a degree in Computer Science (Data Engineering) at Universiti Teknologi Malaysia.
 - Born on April 18th
@@ -33,7 +33,7 @@ Secondary School <br>
 - President of Computer Science Club<br>
 
 Matriculation<br>
-- Mentor in subject computer science, physics and chemistry 
+- Mentor in subjects of computer science, physics, and chemistry 
     
 
 
@@ -51,8 +51,9 @@ ___________
 - [INTEGRITY AND ANTI-CORRUPTION](https://github.com/NASYIKINKHAI/SEMESTER-1/tree/main/Integrity%20and%20Anti-corruption%20Course) <BR>
 - [PROGRAMMING TECHNIQUE I](https://github.com/NASYIKINKHAI/SEMESTER-1/tree/main/Programming%20Technique%20I)<BR>
 - [TECHNOLOGY AND INFORMATION SYSTEM](https://github.com/NASYIKINKHAI/SEMESTER-1/tree/main/Technology%20and%20Information%20System)<BR>
-- [DIGITAL LOGIC](https://github.com/NASYIKINKHAI/SEMESTER-1/tree/main/Digital%20Logic)
+- [DIGITAL LOGIC](https://github.com/NASYIKINKHAI/SEMESTER-1/tree/main/Digital%20Logic)<BR>
 
+### Year 2 <br>
 ___________
 - [SEMESTER 2 (ALL)]
 
