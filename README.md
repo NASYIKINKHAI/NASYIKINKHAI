@@ -53,6 +53,9 @@ ___________
 - [TECHNOLOGY AND INFORMATION SYSTEM](https://github.com/NASYIKINKHAI/SEMESTER-1/tree/main/Technology%20and%20Information%20System)<BR>
 - [DIGITAL LOGIC](https://github.com/NASYIKINKHAI/SEMESTER-1/tree/main/Digital%20Logic)
 
+___________
+- [SEMESTER 2 (ALL)]
+
 
 ### My E-Portfolio <br>
 ____________
