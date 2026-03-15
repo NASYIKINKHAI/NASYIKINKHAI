@@ -53,10 +53,10 @@ _________
 <img src="https://komarev.com/ghpvc/?username=nasyikinkhai&label=Profile%20Views&color=0e75b6&style=flat"/>
 </p>
 
-<!-- <p align="center">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nasyikinkhai&show_icons=true&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nasyikinkhai&layout=compact&hide_border=true" width="48%" />
-</p> -->
+  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nasyikinkhai&layout=compact&hide_border=true" width="48%" /> -->
+</p>
 
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=nasyikinkhai"/>
