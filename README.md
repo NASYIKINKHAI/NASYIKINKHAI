@@ -84,8 +84,8 @@ Here are some ideas to get you started:
 | 1   | 09/04/2026 | Scopus, Google Scholar | Artificial Intelligence and Machine Learning data pipelines journal articles 2023–2026 | To search for relevant academic papers and understand the topic.        |
 | 2   | 09/04/2026 | ChatGPT, Scopus               | Explain AI and ML data pipelines in simple terms                             | To understand the basic concept before writing.                         |
 | 3   | 11/04/2026 | ChatGPT, Claude               | Summarize AI and ML data pipelines for literature review                     | To gather main ideas for the Background / Literature Review section.    |
-| 4   | 11/04/2026 | Claude, ChatGPT        | Explain current trends in AI and ML data pipelines                           | To include updated information in the literature review.                |
-| 5   | 11/04/2026 | ChatGPT                | Explain challenges of AI and ML data pipelines                               | To identify issues to include in the literature review.                 |
+| 4   | 11/04/2026 | ChatGPT, Claude        | Explain current trends in AI and ML data pipelines                           | To include updated information in the literature review.                |
+| 5   | 11/04/2026 | ChatGPT, Claude                | Explain challenges of AI and ML data pipelines                               | To identify issues to include in the literature review.                 |
 | 6   | 12/04/2026 | ChatGPT                | Check if there is any grammatical error in my sentences and improve them     | To ensure the writing is clear and grammatically correct.               |
 | 7   | 12/04/2026 | ChatGPT                | Check if there is any grammatical error in my sentences and improve them                 | To improve clarity and match the report writing style.                  |
 
