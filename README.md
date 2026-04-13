@@ -75,7 +75,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<!-- comment -->
+...your table...
 ## APPENDIX / LOGBOOK
 
 | No. | Date       | Tools Used              | Prompt Asked                                                                 | Purpose                                                                 |
